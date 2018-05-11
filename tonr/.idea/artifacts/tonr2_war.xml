@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tonr2:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tonr2-2.0.9.RELEASE.war" />
+  </artifact>
+</component>

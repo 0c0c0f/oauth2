@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sparklr:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="sparklr2-2.0.9.RELEASE.war" />
+  </artifact>
+</component>
